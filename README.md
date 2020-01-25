@@ -39,3 +39,7 @@ POWERLEVEL9K_CUSTOM_ICON_FOREGROUND=015
 install Firefox, Evolution, Spotify, Visual Code Studio, Gitkraken, Enpass, Java JDK, MEGASync
 
 7. Install BalenaEtcher, Lutris, Remmina
+
+8. Install LightDM
+
+Theme: https://aur.archlinux.org/packages/lightdm-webkit-theme-aether/
