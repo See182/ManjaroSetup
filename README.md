@@ -38,6 +38,8 @@ POWERLEVEL9K_CUSTOM_ICON_FOREGROUND=015
 6. instlal Screenfetch
 install Firefox, Evolution, Spotify, Visual Code Studio, Gitkraken, Enpass, Java JDK, MEGASync
 
+install powershell openjdk
+
 7. Install BalenaEtcher, Lutris, Remmina
 
 8. Install LightDM
