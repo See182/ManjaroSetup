@@ -43,3 +43,7 @@ install Firefox, Evolution, Spotify, Visual Code Studio, Gitkraken, Enpass, Java
 8. Install LightDM
 
 Theme: https://aur.archlinux.org/packages/lightdm-webkit-theme-aether/
+
+TODO:
+Nautilus pimpen
+USB Tools format and creator
